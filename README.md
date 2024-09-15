@@ -1,7 +1,7 @@
-#BrainWave
+BrainWave
 
 
-#Description
+Description
 
 BrainWave ist eine Desktop-Anwendung, die mit Python und Tkinter entwickelt wurde. Sie bietet Funktionen wie;
 
